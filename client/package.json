@@ -1,0 +1,23 @@
+{
+  "name": "intro-graphql",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "dependencies": {
+    "apollo-test-utils": "^0.3.2",
+    "graphql": "^0.10.1",
+    "graphql-tools": "^1.0.0",
+    "materialize-css": "^0.98.2",
+    "react": "^15.5.4",
+    "react-apollo": "^1.4.2",
+    "react-dom": "^15.5.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
